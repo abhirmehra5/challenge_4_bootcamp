@@ -1,3 +1,3 @@
-# challenge_4_bootcamp
+# Challenge 4 Bootcamp
 
-financial analysis through various python libraries
+Financial Analysis through various Python Libraries
